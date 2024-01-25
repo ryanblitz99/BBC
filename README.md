@@ -1,4 +1,4 @@
-### Can I Login Backend - authentication Assignment
+
 
 #### Table of contents
 
@@ -85,7 +85,10 @@ def create_model(num_words, embedding_dim, maxlen):
 #### Accuracy plots
 
 - training and validation accuracy
+  ```
   ![image](https://github.com/ryanblitz99/BBC/assets/131364279/cbea5be4-30d2-421f-8900-c2fd4d1a7069)
-
+  ```
 - training and validation loss
+  ```
   ![image](https://github.com/ryanblitz99/BBC/assets/131364279/6d5de761-ad67-4f29-b9a0-d1d68671a71d)
+  ```
